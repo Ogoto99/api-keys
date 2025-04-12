@@ -256,4 +256,4 @@ function handleError(error) {
 }
 
 // Initial weather data
-fetchWeatherData("London");
+fetchWeatherData("Nairobi");
